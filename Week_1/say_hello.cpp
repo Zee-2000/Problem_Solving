@@ -1,9 +1,15 @@
 #include <iostream>
 using namespace std;
-int main()
-{
-     char x;
-     cin >> x;
-     cout << "Hello", x;
-     return 0;
+
+int main() {
+  
+      // Variable to store data given by cin
+    string s;
+
+    // Take input using cin
+    cin >> s;
+
+    // Print output
+    cout <<  "Hello", s;
+    return 0;
 }
