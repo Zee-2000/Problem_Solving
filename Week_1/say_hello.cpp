@@ -4,10 +4,9 @@ using namespace std;
 int main() {
   
       // Variable to store data given by cin
-    string s;
+    char s;
 
-    // Take input using cin
-    cin >> s;
+    
 
     // Print output
     cout <<  "Hello", s;
