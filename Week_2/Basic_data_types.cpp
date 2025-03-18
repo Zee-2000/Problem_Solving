@@ -1,15 +1,15 @@
+#include <iostream>
 using namespace std;
 
+int  main () {
 
-int main()
-{
-    int n;
-    long m ;
-    char a;
-    float b;
-    double v;
-    
-    cin >> n >> m >> a >> b >> v >>;
-    cout << n "\n" << m "\n" << a "\n" << b "\n" << v "\n" ;
-    return 0;
+ int x;
+ long long y;
+ char s;
+ float f;
+ double d;
+
+ cin >>x>>y>>s>>f>>d;
+
+ cout <<x << "\n"<<y<< "\n"<<s<< "\n"<<f<< "\n"<<d;
 }
