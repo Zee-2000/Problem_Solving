@@ -1,14 +1,11 @@
 #include <iostream>
+#include <string.h>
 using namespace std;
 
-int main() {
-  
-      // Variable to store data given by cin
-    char s;
+int main()
+{
+string s;
+cin>>s;
+cout<<"Hello "<<s<<endl;
 
-    
-
-    // Print output
-    cout <<  "Hello", s;
-    return 0;
 }

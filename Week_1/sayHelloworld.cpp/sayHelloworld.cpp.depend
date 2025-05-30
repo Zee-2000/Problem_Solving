@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1744125776 source:/home/zahwa/Problem_Solving/Week_1/say_hello.cpp
+	<iostream>
+	<string.h>
+
+1742338401 source:/home/zahwa/Problem_Solving/Week_1/Basic_data_types.cpp
+	<iostream>
+
